@@ -2,7 +2,7 @@
 <ul>
         <li><h3>👋🏻 Hi, I'm Darshan!</h3></li>
         <li><h3>👨🏻‍🎓 I am a CS undergraduate!</h3></li>
-        <li><h3>👨🏻‍💻 I am current Learning JavaScript!</h3></li>
+        <li><h3>👨🏻‍💻 I am currently learning JavaScript!</h3></li>
     </ul>
 
 
