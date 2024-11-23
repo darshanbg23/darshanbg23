@@ -1,8 +1,8 @@
 # ☺️ About Me
-ul>
-        <li>Hi, I'm Darshan!</li>
-        <li>I am a CS undergraduate!</li>
-        <li>I am current Learning JavaScript</li>
+<ul>
+        <li><h3>Hi, I'm Darshan!</h3></li>
+        <li><h3>I am a CS undergraduate!</h3></li>
+        <li><h3>I am current Learning JavaScript</h3></li>
     </ul>
 
 
