@@ -1,5 +1,9 @@
-<h1> Hi , I'm Darshan! </h1>
-<h4> I am CS undergraduate! </h4>
+# ☺️ About Me
+ul>
+        <li>Hi, I'm Darshan!</li>
+        <li>I am a CS undergraduate!</li>
+        <li>I am current Learning JavaScript</li>
+    </ul>
 
 
 ## 🌐 Socials:
