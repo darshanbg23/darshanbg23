@@ -3,7 +3,7 @@ I am a CS Undergraduate!
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/your-profile-link/" target="_blank" rel="noopener noreferrer">
+<a href="www.linkedin.com/in/darshan-bg-683a23291" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
