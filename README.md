@@ -1,5 +1,5 @@
-# Hi , I'm Darshan!
-## I am CS undergraduate!  
+<h1> Hi , I'm Darshan! </h1>
+<h4> I am CS undergraduate! </h4>
 
 
 ## 🌐 Socials:
