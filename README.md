@@ -80,6 +80,8 @@
   </a>
 </p>
 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=darshanbg23)](https://git.io/streak-stats) -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> <b>Let's Connect</b>
