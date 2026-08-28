@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Penetration+Testing+Learner;Web+Application+Security;AI+and+Machine+Learning;Hands-on+Project+Builder">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;AI+and+ML+Enthusiast;Exploring+Generative+AI;RAG+%26+LLM+Learner;Cybersecurity+Enthusiast;Problem+Solving+%26+DSA">
 </p>
 
 
@@ -22,17 +22,17 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="210px">
 </picture>
 
-- Computer Science student interested in building modern software and learning new technologies.
+* Computer Science student interested in **Software Development, Artificial Intelligence, and Cybersecurity**.
 
-- Passionate about Cybersecurity, especially penetration testing and web application security.
+* Enjoy building practical projects and exploring how modern technologies can be used to solve real-world problems.
 
-- Focused on writing clean, scalable, and efficient code while building practical projects.
+* Currently exploring **AI/ML, Generative AI, RAG systems, and full-stack development** through hands-on projects.
 
-- Interested in Artificial Intelligence and Machine Learning and their real-world applications.
+* Interested in **Cybersecurity**, especially web application security, penetration testing, and secure software development.
 
-- Actively learning through hands-on projects, labs, and problem solving.
+* Actively improving my **problem-solving and Data Structures & Algorithms** skills through coding practice and LeetCode.
 
-- Exploring security tools, automation, and system internals to strengthen cybersecurity skills.
+* Always learning, experimenting with new technologies, and building projects to strengthen my technical skills.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -44,11 +44,11 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,django,flask,vercel&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
 <p align="center">
@@ -59,6 +59,15 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
 </p>
 
+<!-- <p align="center">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/BGE--M3-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge&logoColor=black" />
+</p> -->
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -66,11 +75,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbg23&theme=dark&hide_border=false" />
-</p>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=darshanbg23&theme=dark&hide_border=false" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
