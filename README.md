@@ -18,10 +18,6 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> <b> About Me </b>
 
-<picture>
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="210px">
-</picture>
-
 * Computer Science student interested in **Software Development, Artificial Intelligence, and Cybersecurity**.
 
 * Enjoy building practical projects and exploring how modern technologies can be used to solve real-world problems.
